@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>c:\users\panea\Documents\Atmel Studio\7.0\uC2_the_receiver\uC2_the_receiver\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\panea\Documents\Atmel Studio\7.0\uC2_the_receiver\uC2_the_receiver\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\panea\Documents\Atmel Studio\7.0\uC2_the_receiver\uC2_the_receiver\Debug\uC2_the_receiver.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>uC2_the_receiver.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>uC2_the_receiver.map</FILE>
+  <FILE>uC2_the_receiver.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>c:\users\panea\Documents\Atmel Studio\7.0\uC2_the_receiver\uC2_the_receiver\main.asm</FILE><LINE>24</LINE></reset>
+  <receptie><FILE>c:\users\panea\Documents\Atmel Studio\7.0\uC2_the_receiver\uC2_the_receiver\main.asm</FILE><LINE>76</LINE></receptie>
+  <main><FILE>c:\users\panea\Documents\Atmel Studio\7.0\uC2_the_receiver\uC2_the_receiver\main.asm</FILE><LINE>40</LINE></main>
+  <init_display><FILE>c:\users\panea\Documents\Atmel Studio\7.0\uC2_the_receiver\uC2_the_receiver\main.asm</FILE><LINE>109</LINE></init_display>
+  <set_ram><FILE>c:\users\panea\Documents\Atmel Studio\7.0\uC2_the_receiver\uC2_the_receiver\main.asm</FILE><LINE>166</LINE></set_ram>
+  <bucla><FILE>c:\users\panea\Documents\Atmel Studio\7.0\uC2_the_receiver\uC2_the_receiver\main.asm</FILE><LINE>73</LINE></bucla>
+  <put_char><FILE>c:\users\panea\Documents\Atmel Studio\7.0\uC2_the_receiver\uC2_the_receiver\main.asm</FILE><LINE>186</LINE></put_char>
+  <end1><FILE>c:\users\panea\Documents\Atmel Studio\7.0\uC2_the_receiver\uC2_the_receiver\main.asm</FILE><LINE>101</LINE></end1>
+  <locatie_fixata><FILE>c:\users\panea\Documents\Atmel Studio\7.0\uC2_the_receiver\uC2_the_receiver\main.asm</FILE><LINE>95</LINE></locatie_fixata>
+  <wait_48us><FILE>c:\users\panea\Documents\Atmel Studio\7.0\uC2_the_receiver\uC2_the_receiver\main.asm</FILE><LINE>206</LINE></wait_48us>
+  <wait_30ms><FILE>c:\users\panea\Documents\Atmel Studio\7.0\uC2_the_receiver\uC2_the_receiver\main.asm</FILE><LINE>228</LINE></wait_30ms>
+  <wait><FILE>c:\users\panea\Documents\Atmel Studio\7.0\uC2_the_receiver\uC2_the_receiver\main.asm</FILE><LINE>215</LINE></wait>
+  <wait1><FILE>c:\users\panea\Documents\Atmel Studio\7.0\uC2_the_receiver\uC2_the_receiver\main.asm</FILE><LINE>237</LINE></wait1>
+ </LABELS>
+</ASSEMBLER_INFO>
