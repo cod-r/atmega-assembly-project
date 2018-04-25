@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\panea\Documents\Atmel Studio\7.0\uC1_transmitter\uC1_transmitter\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\panea\Documents\Atmel Studio\7.0\uC1_transmitter\uC1_transmitter\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\panea\Documents\Atmel Studio\7.0\uC1_transmitter\uC1_transmitter\Debug\uC1_transmitter.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>uC1_transmitter.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>uC1_transmitter.map</FILE>
+  <FILE>uC1_transmitter.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\panea\Documents\Atmel Studio\7.0\uC1_transmitter\uC1_transmitter\main.asm</FILE><LINE>24</LINE></reset>
+  <gata_conversia><FILE>C:\Users\panea\Documents\Atmel Studio\7.0\uC1_transmitter\uC1_transmitter\main.asm</FILE><LINE>177</LINE></gata_conversia>
+  <main><FILE>C:\Users\panea\Documents\Atmel Studio\7.0\uC1_transmitter\uC1_transmitter\main.asm</FILE><LINE>35</LINE></main>
+  <wait><FILE>C:\Users\panea\Documents\Atmel Studio\7.0\uC1_transmitter\uC1_transmitter\main.asm</FILE><LINE>271</LINE></wait>
+  <bucla><FILE>C:\Users\panea\Documents\Atmel Studio\7.0\uC1_transmitter\uC1_transmitter\main.asm</FILE><LINE>173</LINE></bucla>
+  <end><FILE>C:\Users\panea\Documents\Atmel Studio\7.0\uC1_transmitter\uC1_transmitter\main.asm</FILE><LINE>267</LINE></end>
+ </LABELS>
+</ASSEMBLER_INFO>
